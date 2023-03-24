@@ -1,0 +1,24 @@
+h1 {
+    font-size: 70px;
+    font-weight: 600;
+    background-image: linear-gradient(45deg, #553c9a, #ee4b2b);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+
+}
+
+img {
+    height: auto;
+    width: 720px;
+}
+
+.container {
+    border: 5px seashell;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border-radius: 3%;
+    -webkit-box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+    box-shadow: 2px 2px 13px -4px rgba(0, 0, 0, 0.21);
+}
